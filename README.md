@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emily Harrison</h1>
+<h1 align="center">Hi 👋, I'm GadgetWitch</h1>
 <h3 align="center">A delivery manager that leads a bunch of fantastic devops and cloud engineers</h3>
 
 - 🔭 I’m currently working on loads of stuff gadgets, devops, cloud and tech
