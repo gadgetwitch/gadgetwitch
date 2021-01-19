@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emily Harrison</h1>
 <h3 align="center">A delivery manager that leads a bunch of fantastic devops and cloud engineers</h3>
 
-- 🔭 I’m currently working on **gadgetwitch stuff**
+- 🔭 I’m currently working on loads of stuff gadgets, devops, cloud and tech
 
-- 🌱 I’m currently learning **relearning HTML, CSS and Javascript**
+- 🌱 I’m currently re-learning HTML, CSS and Javascript**
 
-- 👯 I’m looking to collaborate on **on all things devops**
+- 👯 I’m looking to collaborate on **on all things devops and cloud**
 
 - 📫 How to reach me **gadgetwitch@gmail.com**
 
