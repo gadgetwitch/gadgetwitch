@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm GadgetWitch</h1>
 <h3 align="center">A delivery manager that leads a bunch of fantastic devops and cloud engineers</h3>
 
-- 🔭 I’m currently working on loads of stuff gadgets, devops, cloud and tech
+- 🔭 At work I am a chapter lead for an amazing group of people who are working hard on building loads of cool things. We are devops, cloud and tech
 
-- 🌱 I’m currently re-learning HTML, CSS and Javascript**
+- 🌱 I’m currently re-learning HTML, CSS and MAYBE Javascript**
 
 - 👯 I’m looking to collaborate on **on all things devops and cloud**
 
