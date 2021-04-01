@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GadgetWitch</h1>
+<h1 align="center">Hi 👋, I'm The GadgetWitch</h1>
 <h3 align="center">A delivery manager that leads a bunch of fantastic devops and cloud engineers</h3>
 
 - 🔭 At work I am a chapter lead for an amazing group of people who are working hard on building loads of cool things. We are devops, cloud and tech
